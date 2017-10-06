@@ -2,8 +2,7 @@
 An exploration of the different types of cheerios
 ## Original Cheerios
 
-![Image of Original Cheerios](https://drive.google.com/file/d/0ByXJAe3H7VATd1RxZjM5MFUyQUU/view?usp=sharing)
-
+![Image of Original Cheerios](https://github.com/mvill142/Cheerios/blob/master/original%20Cheerios.png)
 ## Honey Nut Cheerios
 ## Pumpkin Spice
 ## Multi Grain Cheerios
