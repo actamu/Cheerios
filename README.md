@@ -1,5 +1,7 @@
 # Cheerios
-An exploration of the different types of cheerios
+An exploration of the different types of cheerios. More information can be found at
+[Cheerios Website](https://www.cheerios.com/products).
+
 ## Original Cheerios
 
 ![Image of Original Cheerios](https://github.com/mvill142/Cheerios/blob/master/original%20Cheerios.png)
