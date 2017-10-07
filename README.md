@@ -25,6 +25,8 @@ An exploration of some of the different types of cheerios. More information can 
 
 ## Pumpkin Spice
 
+![Image of Pumpkin Spice Cheerios](https://github.com/mvill142/Cheerios/blob/master/pumpkin%20spice.jpg)
+
 >Real pumpkin puree and cinnamon, nutmeg, and clove come together for a delicious fall treat!
 
 * You know it's fall when these make a return to the market
