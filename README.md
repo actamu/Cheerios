@@ -15,6 +15,8 @@ An exploration of some of the different types of cheerios. More information can 
 
 ## Honey Nut Cheerios
 
+![Image of Honey Nut Cheerios](https://github.com/mvill142/Cheerios/blob/master/Honey%20Nut%20Cheerios.png)
+
 > An irresistible taste of golden honey that also provides 12 essential vitamins and minerals.
 
 * Best kind of cheerios
