@@ -29,15 +29,3 @@ An exploration of some of the different types of cheerios. More information can 
 * Something to go with your PSL
 * Kind of basic, if you think about it
 
-## Multi Grain Cheerios
-## Very Berry Cheerios
-## Apple Cinnamon Cheerios
-## Frosted Cheerios
-## Honey Nut Cheerios Medley Crunch
-## Cheerios + Ancient Grains
-## Cheerios Protein Cinnamon Almond
-## Cheerios Protein Oats & Honey
-## Fruity Cheerios
-## Chocolate Cheerios
-## Multi Grain Cheerios Dark Chocolate Crunch
-## Strawberry Cheerios
